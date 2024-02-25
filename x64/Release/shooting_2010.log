@@ -47,87 +47,88 @@ C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1):
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500,1): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
 C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58509,1): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUT.cpp(696,131): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUT.cpp(696,187): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUT.cpp(697,135): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUT.cpp(697,195): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUT.cpp(4961,13): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUT.cpp(696,131): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUT.cpp(696,187): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUT.cpp(697,135): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUT.cpp(697,195): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUT.cpp(4961,13): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
   Ani_spriteActor.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\Ani_spriteActor.cpp(20,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\Ani_spriteActor.cpp(20,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   BaseMonster.cpp
   BD_SAM.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(6,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(13,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(16,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(33,102): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(47,17): warning C4244: '=': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(99,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(106,18): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\BD_SAM.cpp(99,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(6,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(13,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(16,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(33,102): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(47,17): warning C4244: '=': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(99,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(106,18): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\BD_SAM.cpp(99,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
   BulletBase.cpp
   CollisionSystem.cpp
   MonsterManager.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\MonsterManager.h(1,1): warning C4828: 파일에 0xcc 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\MonsterManager.h(1,1): warning C4828: 파일에 0xcc 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
   Player.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\Player.cpp(18,43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\Player.cpp(115,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\Player.cpp(138,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\Player.cpp(138,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\Player.cpp(18,43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\Player.cpp(115,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\Player.cpp(138,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\Player.cpp(138,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
   SC_SAM.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(6,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(23,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(26,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(36,106): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(53,17): warning C4244: '=': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(106,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(112,18): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\SC_SAM.cpp(106,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(6,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(23,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(26,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(36,106): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(53,17): warning C4244: '=': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(106,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(112,18): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\SC_SAM.cpp(106,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
   spriteActor.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\spriteActor.cpp(11,51): warning C4245: '인수': 'int'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\spriteActor.cpp(11,51): warning C4245: '인수': 'int'에서 'UINT'(으)로의 변환입니다. signed 또는 unsigned가 일치하지 않습니다.
   YS_SAM.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(6,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(13,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(16,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(34,103): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(50,17): warning C4244: '=': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(130,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(137,18): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\YS_SAM.cpp(130,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(6,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(13,21): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(16,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(34,103): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(50,17): warning C4244: '=': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(130,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(137,18): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\YS_SAM.cpp(130,8): warning C4189: 'curTime': 지역 변수가 초기화되었으나 참조되지 않았습니다.
   DXUTenum.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUTenum.cpp(3976,39): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUTenum.cpp(3976,39): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   DXUTmisc.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Core\DXUTmisc.cpp(1263,13): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Core\DXUTmisc.cpp(1263,13): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
   DXUTcamera.cpp
   DXUTgui.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\DXUTgui.cpp(6846,37): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\DXUTgui.h(109,10): message : 'CDXUTElement::iTexture' 선언을 참조하십시오.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\DXUTgui.cpp(6860,34): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\DXUTgui.h(110,10): message : 'CDXUTElement::iFont' 선언을 참조하십시오.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\DXUTgui.cpp(6860,74): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\DXUTgui.h(111,11): message : 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\DXUTgui.cpp(6846,37): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\DXUTgui.h(109,10): message : 'CDXUTElement::iTexture' 선언을 참조하십시오.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\DXUTgui.cpp(6860,34): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\DXUTgui.h(110,10): message : 'CDXUTElement::iFont' 선언을 참조하십시오.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\DXUTgui.cpp(6860,74): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\DXUTgui.h(111,11): message : 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
   DXUTres.cpp
   DXUTsettingsdlg.cpp
   SDKmesh.cpp
   SDKmisc.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LPARAM'입니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'LPARAM'입니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LPARAM'입니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'LPARAM'입니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
   LPspriteBase.cpp
   shooting.cpp
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(103,52): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(125,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(139,53): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(163,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(176,53): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(186,54): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
-C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\shooting.cpp(213,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(103,52): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(125,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(139,53): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(163,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(176,53): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(186,54): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\shooting.cpp(213,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
   코드를 생성하고 있습니다.
-  Previous IPDB not found, fall back to full compilation.
-  All 1121 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  1117 of 1121 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
-  shooting_2010.vcxproj -> C:\Users\MOK\Downloads\킹갓 2조 슈팅겜\shooting\x64\Release\shooting.exe
+  shooting_2010.vcxproj -> C:\Users\MOK\Downloads\킹갓 2조 슈팅겜20240207\shooting\hanse_ShootingGame\x64\Release\shooting.exe
