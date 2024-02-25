@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="Bullet">
+      <UniqueIdentifier>{5c405c8a-9772-4852-a93e-4d8f9cb7ee05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{67d93472-8851-46fb-b75c-c9645f43c6f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Collision">
+      <UniqueIdentifier>{074f2971-32de-4295-bd9e-ef589c78cd62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{095bc34e-b392-470f-a591-e357b38c2a4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monster">
+      <UniqueIdentifier>{3ccc3e1c-a2cd-47f3-b91f-7e0049ba6bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Monster">
+      <UniqueIdentifier>{8df66d0d-face-4cd4-a8f2-26679ec18ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monster\sc">
+      <UniqueIdentifier>{760e0e68-4453-49f5-b5df-1b019634cced}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monster\BD">
+      <UniqueIdentifier>{1340c832-3bf6-4027-9f11-e680c733cad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Monster\YS">
+      <UniqueIdentifier>{1a9f8910-fd8a-4cd6-b9d7-035d16e21ca3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="shutting.cpp" />
+    <ClCompile Include="LPspriteBase.cpp" />
+    <ClCompile Include="spriteActor.cpp" />
+    <ClCompile Include="Ani_spriteActor.cpp" />
+    <ClCompile Include="CollisionSystem.cpp">
+      <Filter>System\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletBase.cpp">
+      <Filter>Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseMonster.cpp">
+      <Filter>Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterManager.cpp">
+      <Filter>System\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="SC_SAM.cpp">
+      <Filter>Monster\sc</Filter>
+    </ClCompile>
+    <ClCompile Include="BD_SAM.cpp">
+      <Filter>Monster\BD</Filter>
+    </ClCompile>
+    <ClCompile Include="YS_SAM.cpp">
+      <Filter>Monster\YS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LPspriteBase.h" />
+    <ClInclude Include="spriteActor.h" />
+    <ClInclude Include="image.h" />
+    <ClInclude Include="Ani_spriteActor.h" />
+    <ClInclude Include="CollisionSystem.h">
+      <Filter>System\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletBase.h">
+      <Filter>Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseMonster.h">
+      <Filter>Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterManager.h">
+      <Filter>System\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="SC_SAM.h">
+      <Filter>Monster\sc</Filter>
+    </ClInclude>
+    <ClInclude Include="BD_SAM.h">
+      <Filter>Monster\BD</Filter>
+    </ClInclude>
+    <ClInclude Include="YS_SAM.h">
+      <Filter>Monster\YS</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="shutting.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
